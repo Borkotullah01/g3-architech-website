@@ -59,9 +59,6 @@ nav > ul{
     display: flex;
     align-items: center;
 }
-nav > li{
-
-}
 nav a{
     padding-left: 30px;
     color:#424242;
